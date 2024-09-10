@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nethmi Chamathka</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
-- 🔭 I’m currently working on **fullstack Developed Webapplication(MERN)**
+- 🔭 I’m currently working on **Fullstack Developed Webapplication(MERN)**
 
 - 🌱 I’m currently learning **UI/UX Design,Agile Project Management,Machine Learning**
 

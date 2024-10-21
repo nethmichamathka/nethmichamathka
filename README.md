@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Currently working on MERN fullstack web Application<br>🌱 Learning UI/UX Design,Agile Project Management,Machine Learning<br>💬 Ask me about JAVA,MERN<br>📫 How to reach me **chamathkanethmi11@gmail.com**<br>
+🔭 Recently Completed a MERN Full-Stack Web Web Application<br>🌱 Learning UI/UX Design,Agile Project Management,Machine Learning<br>💬 Ask me about JAVA,MERN<br>📫 How to reach me **chamathkanethmi11@gmail.com**<br>
 
 
 ## 🌐 Socials:
